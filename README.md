@@ -6,11 +6,13 @@ This project is part of the Programming Usable Interfaces course at Carnegie Mel
 ## Setup
 
 1. Download ZIP file of project.
-2. Extract the folder and open terminal in that path.
-3. Install node modules
-``npm install``
-4. Open Chrome. Go to chrome://extensions
-5. Enable developer mode.
-6. Click 'Load Unpacked' button. Select the root project folder.
+2. Extract the folder.
+3. Open Chrome. Go to chrome://extensions
+4. Enable developer mode using toggle in top-right corner.
+5. Click 'Load Unpacked' button. Select the extracted folder- 'controll-master'.
 
 Go to YouTube and use the extension.
+
+## Video
+
+https://youtu.be/WIsigBKxfVo
